@@ -9,7 +9,7 @@ This Medical Insurance Cost Prediction AI Model Will Predict The Cost Of Any Med
 
 Link to the web app : 
 
-<a href="https://pb2204-medical-insurance-cost-prediction-main-e9x4iq.streamlit.app/">
+<a href=" https://baswameenakshi.github.io/Medical_Insurance_Prediction/">
     <img src="https://img.shields.io/badge/Medical%20Insurance%20Cost%20Prediction-0A0A0A?style=plastic&logo=HERE&logoColor=red" height=40></a>
 
 <h1 align='center'> Work Flow Of This Project </h1>
