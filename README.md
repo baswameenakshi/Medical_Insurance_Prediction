@@ -1,4 +1,4 @@
-# Medical_Insurance_Prediction
+
 # Medical-Insurance-Cost-Prediction
 This Medical Insurance Cost Prediction AI Model Will Predict The Cost Of Any Medical Insurance With Around 84.26 % Accuracy...
 
